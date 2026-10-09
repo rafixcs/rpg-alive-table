@@ -40,6 +40,17 @@ A Fase 6 pode subir para logo depois da 3 se for desejável cobrar mais cedo, j�
 - **Planejar antes de implementar**: para cada issue, pedir à IA um plano (arquivos, testes, migrações) e revisar esse plano antes de mandar escrever código.
 - **RAG e MCP**: todo PR que toca esses módulos explica o mecanismo na descrição e atualiza [`rag.md`](rag.md) / [`mcp.md`](mcp.md). Eles são material de estudo.
 
+### Skills do Claude Code usadas
+
+Registro das skills usadas no projeto: quando foram usadas, o que produziram e quando vale usar de novo.
+
+| Skill | Quando | O que produziu | Usar de novo quando |
+|---|---|---|---|
+| `mattpocock-skills:grill-with-docs` | Planejamento inicial (2026-10) | Ponto de entrada que carrega as duas skills abaixo | For preciso desenhar uma funcionalidade nova ou revisar uma fase antes de implementar |
+| `mattpocock-skills:grilling` | Carregada pela `grill-with-docs` | Entrevista em rodadas numeradas (Q1–Q37), cada pergunta com uma recomendação, cobrindo todas as decisões em aberto | Houver muitas decisões interdependentes ainda abertas |
+| `mattpocock-skills:domain-modeling` | Carregada pela `grill-with-docs` | O glossário em `CONTEXT.md` e os ADRs 0001–0005 em `docs/adr/` | Um termo do domínio surgir ou mudar, ou uma decisão atender aos critérios de ADR |
+| `claude-api` | Carregada no início do planejamento e interrompida, sem uso | — | Implementar o Assistente (UC-50), o Resumo e a Fase 3. Ela traz o uso correto do `anthropic-sdk-go`, do Tool Runner e do *prompt caching* |
+
 ## Testes
 
 | O quê | Como | Quando |

@@ -27,3 +27,4 @@ Plataforma para jogadores e mestres de RPG de mesa centralizarem suas anotaçõe
 - Cada tarefa corresponde a uma issue `UC-xx`. Proponha um plano (arquivos, migrações, testes) antes de implementar.
 - Termo novo ou ambíguo: atualizar o `CONTEXT.md` antes do código.
 - **RAG e MCP**: explique sempre o mecanismo em detalhe (fluxo, onde vive no código, trade-offs, como medir) e atualize `docs/rag.md` / `docs/mcp.md`. O autor está estudando esses temas.
+- Skills do Claude Code já usadas e quando reutilizá-las: `docs/desenvolvimento.md` → "Skills do Claude Code usadas". Ao usar uma skill nova, registre-a lá.
