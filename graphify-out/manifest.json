@@ -1,0 +1,98 @@
+{
+  "CLAUDE.md": {
+    "mtime": 1791585755.1252205,
+    "seen": 1792112077.473993,
+    "ast_hash": "6eb9ef910084b93411910546c71218de",
+    "semantic_hash": "6eb9ef910084b93411910546c71218de"
+  },
+  "CONTEXT.md": {
+    "mtime": 1791583470.3720875,
+    "seen": 1792112077.4740024,
+    "ast_hash": "3a798959a098e09a8b5d665f6727a9a8",
+    "semantic_hash": "3a798959a098e09a8b5d665f6727a9a8"
+  },
+  "README.md": {
+    "mtime": 1791584667.772381,
+    "seen": 1792112077.474009,
+    "ast_hash": "e8f54134d5ddfdf186a0275ec3417c7d",
+    "semantic_hash": "e8f54134d5ddfdf186a0275ec3417c7d"
+  },
+  "docs/TODO_me.md": {
+    "mtime": 1792106437.6449723,
+    "seen": 1792112077.474015,
+    "ast_hash": "8ef158f47b9fe4356a1b1798a46ff1da",
+    "semantic_hash": "8ef158f47b9fe4356a1b1798a46ff1da"
+  },
+  "docs/adr/0001-postgres-principal-mongo-para-documentos-isolados.md": {
+    "mtime": 1791582845.427199,
+    "seen": 1792112077.4740212,
+    "ast_hash": "3765623a9cdf0ea371abd7d57719bbb0",
+    "semantic_hash": "3765623a9cdf0ea371abd7d57719bbb0"
+  },
+  "docs/adr/0002-autenticacao-propria-sem-senha.md": {
+    "mtime": 1791583226.5179849,
+    "seen": 1792112077.4740264,
+    "ast_hash": "a24d948ec09b40e6d232926aee0f58c7",
+    "semantic_hash": "a24d948ec09b40e6d232926aee0f58c7"
+  },
+  "docs/adr/0003-formulas-da-ficha-em-go-compilado-para-wasm.md": {
+    "mtime": 1791583226.5969858,
+    "seen": 1792112077.4740326,
+    "ast_hash": "05a7c683249c3f2a0348600e09cb25ab",
+    "semantic_hash": "05a7c683249c3f2a0348600e09cb25ab"
+  },
+  "docs/adr/0004-rag-agentico-com-busca-hibrida.md": {
+    "mtime": 1791583752.6756115,
+    "seen": 1792112077.4740384,
+    "ast_hash": "23f6f7005b47cf372bfb283aeb1a0bb3",
+    "semantic_hash": "23f6f7005b47cf372bfb283aeb1a0bb3"
+  },
+  "docs/adr/0005-servidor-mcp-remoto-com-oauth-proprio.md": {
+    "mtime": 1791584109.4115522,
+    "seen": 1792112077.474044,
+    "ast_hash": "05f6facc6a336c87ca011bdf8c9266ae",
+    "semantic_hash": "05f6facc6a336c87ca011bdf8c9266ae"
+  },
+  "docs/arquitetura.md": {
+    "mtime": 1791584551.5749023,
+    "seen": 1792112077.4740498,
+    "ast_hash": "393e3d9084bb5e39366110407a5272dd",
+    "semantic_hash": "393e3d9084bb5e39366110407a5272dd"
+  },
+  "docs/casos-de-uso.md": {
+    "mtime": 1791584354.4434946,
+    "seen": 1792112077.4740555,
+    "ast_hash": "7849158ee22e16b0aab807d13edac8bf",
+    "semantic_hash": "7849158ee22e16b0aab807d13edac8bf"
+  },
+  "docs/desenvolvimento.md": {
+    "mtime": 1791585751.6441762,
+    "seen": 1792112077.4740617,
+    "ast_hash": "be7acc0e543470e235c7c6f88eef3f74",
+    "semantic_hash": "be7acc0e543470e235c7c6f88eef3f74"
+  },
+  "docs/mcp.md": {
+    "mtime": 1791584509.3033643,
+    "seen": 1792112077.4740674,
+    "ast_hash": "882ffcd32aba2f6faa4639f5895d1815",
+    "semantic_hash": "882ffcd32aba2f6faa4639f5895d1815"
+  },
+  "docs/rag.md": {
+    "mtime": 1791584453.670686,
+    "seen": 1792112077.4740727,
+    "ast_hash": "90c6fbe31fbb8a2fe404defe4dbcb896",
+    "semantic_hash": "90c6fbe31fbb8a2fe404defe4dbcb896"
+  },
+  "docs/tech-stack.md": {
+    "mtime": 1791584551.5779023,
+    "seen": 1792112077.474078,
+    "ast_hash": "0f12964fa9b9ccaee7310f600438663e",
+    "semantic_hash": "0f12964fa9b9ccaee7310f600438663e"
+  },
+  "project.MD": {
+    "mtime": 1791581056.7545967,
+    "seen": 1792112077.4740837,
+    "ast_hash": "bdcdbfa4cb03728e336522d3b8f6964d",
+    "semantic_hash": "bdcdbfa4cb03728e336522d3b8f6964d"
+  }
+}
